@@ -176,7 +176,7 @@ button.big {
       
       <h1 class="hero-heading" style="background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: transparent;" >
      <!--  A Head Full Of Dreams--> The life is your. </h1>
-      <a class="big button w-button" href="tour.php">Le Directe</a>
+      <a class="big button w-button" href="./tour.php">Le Directe</a>
     </div>
 
 </div>
