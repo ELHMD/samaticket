@@ -69,7 +69,7 @@ jQuery(document).ready(function($) {
 }
 body {
 
-	background-image: url(img/music.png);
+	background-image: url(./music.png);
     background-size: cover;
     overflow: scroll;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 								<div class="playIcon"></div>
-								<img class="elastic" src="./img/even/dip.jfif" alt="Dip Dound Guiss">
+								<img class="elastic" src="./dip.jfif" alt="Dip Dound Guiss">
 							</div>	    							    
 								<div class="title">Noboma wone</div>
 								<div>Dip Dound Guiss</div>
@@ -212,7 +212,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 						 		<div class="playIcon"></div>
-								<img class="elastic" src="img\even\iss.jfif" alt="Xolma ci beut">
+								<img class="elastic" src="./iss.jfif" alt="Xolma ci beut">
 							</div>
 							<div class="title">ISS 814 | Xolma ci beut</div>
 							<div>July , 2021</div>
@@ -225,7 +225,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 						 		<div class="playIcon"></div>
-								<img class="elastic" src="img\even\jeeba.jfif" alt="Guy">
+								<img class="elastic" src="./jeeba.jfif" alt="Guy">
 							</div>
 							<div class="title">Jeeba ABDN</div>
 							<div>Feb , 2021</div>
@@ -237,6 +237,6 @@ body {
 					
 </div>	
 
-	<?php require_once "footer.php";?>
+	<?php require_once "./footer.php";?>
 
 </body>
