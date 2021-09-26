@@ -44,7 +44,7 @@
 }
 .hed{
 	/*background-image:url(img/back2.png); */
-    background-image:url(img/band.png);
+    background-image:url(./band.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
